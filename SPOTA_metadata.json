@@ -1,0 +1,26 @@
+{ 
+    "name" :  "SPOTA Token" , 
+    "symbol" :  "SPOTA" , 
+    "description" :  "SPOTA Token Is A Utility Token Used On Sports Athlete Investment Platforms." , 
+    "image" :  "https://raw.githubusercontent.com/spota007/img/refs/heads/main/logo.png" , 
+    "external_url" :  "https://mycoinwebsite.com" , 
+    "attributes" :  [ 
+      { 
+        "trait_type" :  "Type" , 
+        "value" :  "Meme Coin" 
+      } , 
+      { 
+        "trait_type" :  "Blockchain" , 
+        "value" :  "Splana" 
+      } 
+    ] , 
+    "properties" :  { 
+      "files" :  [ 
+        { 
+          "uri" :  "https://raw.githubusercontent.com/spota007/img/refs/heads/main/logo.png" , 
+          "type" :  "image/png" 
+        } 
+      ] , 
+      "category" :  "image" 
+    } 
+}
